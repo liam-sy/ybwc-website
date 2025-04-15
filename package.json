@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "homepage": "https://github.com/liam-sy/ybwc-website",
+  "homepage": "https://liam-sy.github.io/ybwc-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
