@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/liam-sy/ybwc-website/static/css/main.658ef2ed.css",
+    "main.js": "/liam-sy/ybwc-website/static/js/main.9d9775dd.js",
+    "static/js/453.bb828c5d.chunk.js": "/liam-sy/ybwc-website/static/js/453.bb828c5d.chunk.js",
+    "static/media/logo2.png": "/liam-sy/ybwc-website/static/media/logo2.3acecea700653c6ccfd0.png",
+    "index.html": "/liam-sy/ybwc-website/index.html",
+    "main.658ef2ed.css.map": "/liam-sy/ybwc-website/static/css/main.658ef2ed.css.map",
+    "main.9d9775dd.js.map": "/liam-sy/ybwc-website/static/js/main.9d9775dd.js.map",
+    "453.bb828c5d.chunk.js.map": "/liam-sy/ybwc-website/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658ef2ed.css",
+    "static/js/main.9d9775dd.js"
+  ]
+}
