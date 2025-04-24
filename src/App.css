@@ -17,7 +17,7 @@ body {
 
 .left-half {
   flex: 1;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)), url("./suds.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)), url("./suds.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
