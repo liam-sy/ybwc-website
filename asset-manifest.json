@@ -1,17 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.11a47de5.css",
-    "main.js": "/static/js/main.ed12b4e6.js",
+    "main.css": "/static/css/main.4899f7b0.css",
+    "main.js": "/static/js/main.a513850b.js",
     "static/js/453.c7b734a1.chunk.js": "/static/js/453.c7b734a1.chunk.js",
+    "static/media/house1.jpg": "/static/media/house1.68136d85e14a1464ab46.jpg",
     "static/media/suds.jpg": "/static/media/suds.acd7e46d3261b043c800.jpg",
     "static/media/logo3.png": "/static/media/logo3.6a2dde34315c921c8ba5.png",
+    "static/media/logo.png": "/static/media/logo.dc5563a356684a8e6f85.png",
+    "static/media/dot-pattern.svg": "/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
     "index.html": "/index.html",
-    "main.11a47de5.css.map": "/static/css/main.11a47de5.css.map",
-    "main.ed12b4e6.js.map": "/static/js/main.ed12b4e6.js.map",
+    "static/media/email-solid.svg": "/static/media/email-solid.2caeaa05b7a7f564fd70f7e216a947c4.svg",
+    "static/media/house-solid.svg": "/static/media/house-solid.388cf359777b512d6659159d8afca98c.svg",
+    "static/media/shop-solid.svg": "/static/media/shop-solid.c967f6043f7a517230efa85d8d1bd280.svg",
+    "static/media/quotes-l.svg": "/static/media/quotes-l.075e0fe3e775496713dce7e02c3f74ed.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.828ecd04e4d4a4b4704330d1b8b1ebb9.svg",
+    "static/media/phone-solid.svg": "/static/media/phone-solid.6af58fcfbefc052e1863720948c46684.svg",
+    "static/media/simple-icon.svg": "/static/media/simple-icon.673b7e1750b2a4ef32907fc164828d00.svg",
+    "static/media/customize-icon.svg": "/static/media/customize-icon.367468c90fd796009b97fbfba67b2c6a.svg",
+    "static/media/shield-icon.svg": "/static/media/shield-icon.daefe14b320b14fbd9cbd18908ac93ec.svg",
+    "static/media/youtube-icon.svg": "/static/media/youtube-icon.10cce4d9ddf73bc36fc6b15d5639c0ff.svg",
+    "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/reliable-icon.svg": "/static/media/reliable-icon.1367510a8f0a1bec76dc425d25f92f43.svg",
+    "static/media/check-circle.svg": "/static/media/check-circle.fc206c2b3a24c4ad59aca1c8267ee8d5.svg",
+    "static/media/x.svg": "/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/logo.svg": "/static/media/logo.2c489fc453a1783cbadacf914efa3df6.svg",
+    "static/media/fast-icon.svg": "/static/media/fast-icon.dbb971a73d4805d2fc3bcdacdb55beba.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
+    "main.4899f7b0.css.map": "/static/css/main.4899f7b0.css.map",
+    "main.a513850b.js.map": "/static/js/main.a513850b.js.map",
     "453.c7b734a1.chunk.js.map": "/static/js/453.c7b734a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11a47de5.css",
-    "static/js/main.ed12b4e6.js"
+    "static/css/main.4899f7b0.css",
+    "static/js/main.a513850b.js"
   ]
 }
